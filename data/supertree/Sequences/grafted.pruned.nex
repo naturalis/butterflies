@@ -1,0 +1,487 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Mon Oct 31 12:01:57 2016 ]
+	
+        DIMENSIONS NTAX=235;
+        TAXLABELS
+		Aglais_io
+		Aglais_urticae
+		Anthocharis_cardamines
+		Apatura_ilia
+		Apatura_iris
+		Apatura_metis
+		Aphantopus_hyperantus
+		Aporia_crataegi
+		Araschnia_levana
+		Arethusana_arethusa
+		Argynnis_adippe
+		Argynnis_aglaja
+		Argynnis_laodice
+		Argynnis_niobe
+		Argynnis_pandora
+		Argynnis_paphia
+		Aricia_agestis
+		Aricia_artaxerxes
+		Aricia_nicias
+		Boloria_aquilonaris
+		Boloria_chariclea
+		Boloria_dia
+		Boloria_eunomia
+		Boloria_euphrosyne
+		Boloria_freija
+		Boloria_frigga
+		Boloria_graeca
+		Boloria_improba
+		Boloria_napaea
+		Boloria_pales
+		Boloria_polaris
+		Boloria_selene
+		Boloria_thore
+		Boloria_titania
+		Brenthis_daphne
+		Brenthis_hecate
+		Brenthis_ino
+		Brintesia_circe
+		Cacyreus_marshalli
+		Callophrys_rubi
+		Carcharodus_alceae
+		Carcharodus_lavatherae
+		Carcharodus_orientalis
+		Carterocephalus_palaemon
+		Celastrina_argiolus
+		Chazara_briseis
+		Coenonympha_arcania
+		Coenonympha_gardetta
+		Coenonympha_glycerion
+		Coenonympha_hero
+		Coenonympha_leander
+		Coenonympha_oedippus
+		Coenonympha_pamphilus
+		Coenonympha_rhodopensis
+		Coenonympha_tullia
+		Colias_alfacariensis
+		Colias_chrysotheme
+		Colias_erate
+		Colias_hecla
+		Colias_hyale
+		Colias_myrmidone
+		Colias_palaeno
+		Colias_phicomone
+		Colias_tyche
+		Cupido_alcetas
+		Cupido_argiades
+		Cupido_minimus
+		Cupido_osiris
+		Cyaniris_semiargus
+		Erebia_aethiops
+		Erebia_alberganus
+		Erebia_cassioides
+		Erebia_disa
+		Erebia_embla
+		Erebia_epiphron
+		Erebia_eriphyle
+		Erebia_euryale
+		Erebia_gorge
+		Erebia_ligea
+		Erebia_manto
+		Erebia_medusa
+		Erebia_melampus
+		Erebia_melas
+		Erebia_meolans
+		Erebia_mnestra
+		Erebia_neoridas
+		Erebia_nivalis
+		Erebia_oeme
+		Erebia_ottomana
+		Erebia_pandrose
+		Erebia_pharte
+		Erebia_pluto
+		Erebia_polaris
+		Erebia_pronoe
+		Erebia_styx
+		Erebia_sudetica
+		Erebia_tyndarus
+		Erynnis_tages
+		Euchloe_ausonia
+		Euchloe_simplonia
+		Euchloe_tagis
+		Euphydryas_aurinia
+		Euphydryas_cynthia
+		Euphydryas_iduna
+		Euphydryas_maturna
+		Favonius_quercus
+		Gegenes_nostrodamus
+		Glaucopsyche_alexis
+		Gonepteryx_cleopatra
+		Gonepteryx_rhamni
+		Hamearis_lucina
+		Hesperia_comma
+		Heteropterus_morpheus
+		Hipparchia_fagi
+		Hipparchia_hermione
+		Hipparchia_semele
+		Hipparchia_senthes
+		Hipparchia_statilinus
+		Hipparchia_syriaca
+		Hipparchia_volgensis
+		Hyponephele_lycaon
+		Iphiclides_podalirius
+		Issoria_lathonia
+		Kirinia_roxelana
+		Lampides_boeticus
+		Lasiommata_maera
+		Lasiommata_megera
+		Lasiommata_petropolitana
+		Leptidea_morsei
+		Leptidea_sinapis
+		Leptotes_pirithous
+		Libythea_celtis
+		Limenitis_camilla
+		Limenitis_populi
+		Limenitis_reducta
+		Lopinga_achine
+		Lycaena_alciphron
+		Lycaena_dispar
+		Lycaena_helle
+		Lycaena_hippothoe
+		Lycaena_phlaeas
+		Lycaena_thersamon
+		Lycaena_tityrus
+		Lycaena_virgaureae
+		Maniola_jurtina
+		Melanargia_galathea
+		Melitaea_asteria
+		Melitaea_athalia
+		Melitaea_aurelia
+		Melitaea_britomartis
+		Melitaea_cinxia
+		Melitaea_diamina
+		Melitaea_didyma
+		Melitaea_parthenoides
+		Melitaea_phoebe
+		Melitaea_trivia
+		Melitaea_varia
+		Minois_dryas
+		Muschampia_cribrellum
+		Muschampia_tessellum
+		Neptis_rivularis
+		Neptis_sappho
+		Nymphalis_antiopa
+		Nymphalis_polychloros
+		Nymphalis_vaualbum
+		Nymphalis_xanthomelas
+		Ochlodes_sylvanus
+		Oeneis_bore
+		Oeneis_glacialis
+		Oeneis_jutta
+		Oeneis_norna
+		Papilio_machaon
+		Pararge_aegeria
+		Parnassius_apollo
+		Parnassius_mnemosyne
+		Parnassius_phoebus
+		Phengaris_alcon
+		Phengaris_arion
+		Phengaris_nausithous
+		Phengaris_teleius
+		Pieris_brassicae
+		Pieris_bryoniae
+		Pieris_ergane
+		Pieris_mannii
+		Pieris_napi
+		Pieris_rapae
+		Plebejus_argus
+		Plebejus_argyrognomon
+		Plebejus_glandon
+		Plebejus_idas
+		Plebejus_optilete
+		Plebejus_orbitulus
+		Polygonia_egea
+		Polyommatus_amandus
+		Polyommatus_damon
+		Polyommatus_daphnis
+		Polyommatus_dolus
+		Polyommatus_dorylas
+		Polyommatus_eros
+		Polyommatus_icarus
+		Polyommatus_thersites
+		Pontia_callidice
+		Pontia_daplidice
+		Pseudophilotes_baton
+		Pseudophilotes_bavius
+		Pseudophilotes_vicrama
+		Pyrgus_alveus
+		Pyrgus_andromedae
+		Pyrgus_armoricanus
+		Pyrgus_cacaliae
+		Pyrgus_carthami
+		Pyrgus_centaureae
+		Pyrgus_cirsii
+		Pyrgus_malvae
+		Pyrgus_onopordi
+		Pyrgus_serratulae
+		Pyrgus_sidae
+		Pyrgus_warrenensis
+		Pyronia_cecilia
+		Pyronia_tithonus
+		Satyrium_acaciae
+		Satyrium_ilicis
+		Satyrium_pruni
+		Satyrium_spini
+		Scolitantides_orion
+		Spialia_orbifer
+		Spialia_sertorius
+		Thecla_betulae
+		Thymelicus_acteon
+		Thymelicus_lineola
+		Thymelicus_sylvestris
+		Vanessa_atalanta
+		Vanessa_cardui
+		Zegris_eupheme
+		Zerynthia_polyxena
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Mon Oct 31 12:01:57 2016 ]
+	TRANSLATE
+		1 Hamearis_lucina,
+		2 Iphiclides_podalirius,
+		3 Papilio_machaon,
+		4 Zerynthia_polyxena,
+		5 Parnassius_mnemosyne,
+		6 Leptotes_pirithous,
+		7 Carcharodus_alceae,
+		8 Spialia_sertorius,
+		9 Spialia_orbifer,
+		10 Erynnis_tages,
+		11 Heteropterus_morpheus,
+		12 Parnassius_phoebus,
+		13 Parnassius_apollo,
+		14 Neptis_sappho,
+		15 Neptis_rivularis,
+		16 Lycaena_thersamon,
+		17 Callophrys_rubi,
+		18 Pyrgus_malvae,
+		19 Carterocephalus_palaemon,
+		20 Limenitis_reducta,
+		21 Leptidea_morsei,
+		22 Leptidea_sinapis,
+		23 Aporia_crataegi,
+		24 Pieris_brassicae,
+		25 Lycaena_hippothoe,
+		26 Cacyreus_marshalli,
+		27 Lampides_boeticus,
+		28 Muschampia_tessellum,
+		29 Muschampia_cribrellum,
+		30 Carcharodus_lavatherae,
+		31 Carcharodus_orientalis,
+		32 Limenitis_populi,
+		33 Limenitis_camilla,
+		34 Colias_tyche,
+		35 Colias_chrysotheme,
+		36 Colias_palaeno,
+		37 Colias_phicomone,
+		38 Colias_hecla,
+		39 Colias_erate,
+		40 Colias_hyale,
+		41 Colias_myrmidone,
+		42 Colias_alfacariensis,
+		43 Gonepteryx_cleopatra,
+		44 Gonepteryx_rhamni,
+		45 Zegris_eupheme,
+		46 Cupido_osiris,
+		47 Satyrium_pruni,
+		48 Favonius_quercus,
+		49 Thecla_betulae,
+		50 Pyrgus_warrenensis,
+		51 Pyrgus_armoricanus,
+		52 Pyrgus_alveus,
+		53 Pyrgus_onopordi,
+		54 Pyrgus_cirsii,
+		55 Pyrgus_serratulae,
+		56 Hesperia_comma,
+		57 Ochlodes_sylvanus,
+		58 Gegenes_nostrodamus,
+		59 Apatura_iris,
+		60 Euchloe_tagis,
+		61 Pontia_callidice,
+		62 Pontia_daplidice,
+		63 Lycaena_tityrus,
+		64 Lycaena_virgaureae,
+		65 Lycaena_phlaeas,
+		66 Cupido_minimus,
+		67 Celastrina_argiolus,
+		68 Satyrium_ilicis,
+		69 Pyrgus_carthami,
+		70 Pyrgus_sidae,
+		71 Pyrgus_andromedae,
+		72 Thymelicus_acteon,
+		73 Araschnia_levana,
+		74 Libythea_celtis,
+		75 Apatura_metis,
+		76 Apatura_ilia,
+		77 Anthocharis_cardamines,
+		78 Pieris_napi,
+		79 Pieris_ergane,
+		80 Pieris_bryoniae,
+		81 Pieris_mannii,
+		82 Pieris_rapae,
+		83 Lycaena_alciphron,
+		84 Cupido_argiades,
+		85 Cupido_alcetas,
+		86 Glaucopsyche_alexis,
+		87 Phengaris_alcon,
+		88 Satyrium_acaciae,
+		89 Satyrium_spini,
+		90 Pyrgus_cacaliae,
+		91 Pyrgus_centaureae,
+		92 Thymelicus_sylvestris,
+		93 Thymelicus_lineola,
+		94 Pararge_aegeria,
+		95 Lasiommata_maera,
+		96 Hyponephele_lycaon,
+		97 Boloria_frigga,
+		98 Boloria_improba,
+		99 Boloria_dia,
+		100 Boloria_eunomia,
+		101 Euchloe_ausonia,
+		102 Euchloe_simplonia,
+		103 Lycaena_dispar,
+		104 Lycaena_helle,
+		105 Scolitantides_orion,
+		106 Phengaris_arion,
+		107 Plebejus_argus,
+		108 Aglais_urticae,
+		109 Vanessa_cardui,
+		110 Vanessa_atalanta,
+		111 Euphydryas_aurinia,
+		112 Kirinia_roxelana,
+		113 Lopinga_achine,
+		114 Lasiommata_petropolitana,
+		115 Lasiommata_megera,
+		116 Argynnis_aglaja,
+		117 Issoria_lathonia,
+		118 Boloria_graeca,
+		119 Pseudophilotes_bavius,
+		120 Phengaris_nausithous,
+		121 Phengaris_teleius,
+		122 Plebejus_idas,
+		123 Plebejus_argyrognomon,
+		124 Polyommatus_amandus,
+		125 Aglais_io,
+		126 Euphydryas_cynthia,
+		127 Melitaea_cinxia,
+		128 Coenonympha_glycerion,
+		129 Coenonympha_oedippus,
+		130 Coenonympha_pamphilus,
+		131 Minois_dryas,
+		132 Oeneis_bore,
+		133 Maniola_jurtina,
+		134 Boloria_selene,
+		135 Boloria_thore,
+		136 Boloria_polaris,
+		137 Brenthis_hecate,
+		138 Boloria_pales,
+		139 Pseudophilotes_baton,
+		140 Pseudophilotes_vicrama,
+		141 Aricia_nicias,
+		142 Polyommatus_dolus,
+		143 Polygonia_egea,
+		144 Euphydryas_iduna,
+		145 Euphydryas_maturna,
+		146 Melitaea_britomartis,
+		147 Melitaea_athalia,
+		148 Melitaea_diamina,
+		149 Melitaea_didyma,
+		150 Oeneis_glacialis,
+		151 Oeneis_norna,
+		152 Oeneis_jutta,
+		153 Erebia_oeme,
+		154 Aphantopus_hyperantus,
+		155 Argynnis_paphia,
+		156 Argynnis_pandora,
+		157 Argynnis_laodice,
+		158 Brenthis_daphne,
+		159 Brenthis_ino,
+		160 Boloria_napaea,
+		161 Boloria_aquilonaris,
+		162 Aricia_agestis,
+		163 Aricia_artaxerxes,
+		164 Cyaniris_semiargus,
+		165 Plebejus_orbitulus,
+		166 Plebejus_optilete,
+		167 Plebejus_glandon,
+		168 Polyommatus_daphnis,
+		169 Nymphalis_vaualbum,
+		170 Melitaea_parthenoides,
+		171 Melitaea_trivia,
+		172 Melitaea_phoebe,
+		173 Coenonympha_rhodopensis,
+		174 Coenonympha_tullia,
+		175 Coenonympha_hero,
+		176 Brintesia_circe,
+		177 Chazara_briseis,
+		178 Erebia_embla,
+		179 Erebia_disa,
+		180 Erebia_medusa,
+		181 Erebia_polaris,
+		182 Pyronia_tithonus,
+		183 Pyronia_cecilia,
+		184 Boloria_chariclea,
+		185 Boloria_titania,
+		186 Boloria_euphrosyne,
+		187 Boloria_freija,
+		188 Argynnis_adippe,
+		189 Argynnis_niobe,
+		190 Polyommatus_thersites,
+		191 Nymphalis_polychloros,
+		192 Melitaea_varia,
+		193 Coenonympha_gardetta,
+		194 Coenonympha_leander,
+		195 Coenonympha_arcania,
+		196 Arethusana_arethusa,
+		197 Melanargia_galathea,
+		198 Hipparchia_statilinus,
+		199 Erebia_manto,
+		200 Nymphalis_antiopa,
+		201 Nymphalis_xanthomelas,
+		202 Melitaea_aurelia,
+		203 Melitaea_asteria,
+		204 Erebia_ottomana,
+		205 Polyommatus_damon,
+		206 Polyommatus_dorylas,
+		207 Polyommatus_icarus,
+		208 Polyommatus_eros,
+		209 Hipparchia_hermione,
+		210 Hipparchia_fagi,
+		211 Hipparchia_syriaca,
+		212 Hipparchia_senthes,
+		213 Hipparchia_volgensis,
+		214 Hipparchia_semele,
+		215 Erebia_gorge,
+		216 Erebia_aethiops,
+		217 Erebia_styx,
+		218 Erebia_eriphyle,
+		219 Erebia_tyndarus,
+		220 Erebia_cassioides,
+		221 Erebia_nivalis,
+		222 Erebia_meolans,
+		223 Erebia_alberganus,
+		224 Erebia_euryale,
+		225 Erebia_ligea,
+		226 Erebia_mnestra,
+		227 Erebia_sudetica,
+		228 Erebia_melampus,
+		229 Erebia_epiphron,
+		230 Erebia_pharte,
+		231 Erebia_neoridas,
+		232 Erebia_pluto,
+		233 Erebia_pandrose,
+		234 Erebia_melas,
+		235 Erebia_pronoe;
+	TREE Tree3 = [&R] (1:0.176163,((((((14:0.092550,15:0.105032):0.104353,((((((((((169:0.105048,((200:0.051609,201:0.028597):0.019022,191:0.075459):0.018171):0.028734,143:0.112736):0.032851,125:0.072435):0.012906,108:0.074529):0.030001,(109:0.083348,110:0.052321):0.047721):0.020264,73:0.163926):0.040862,((((126:0.075102,(144:0.015102,145:0.021763):0.018332):0.015483,111:0.091148):0.032946,(((146:0.034720,147:0.036924):0.009239,((170:0.049680,((202:0.013703,203:0.013575):0.029436,192:0.027928):0.013730):0.011487,148:0.090639):0.016291):0.036833,(((171:0.092193,172:0.044416):0.006653,149:0.071170):0.014934,127:0.171225):0.004593):0.102858):0.051303,74:0.171649):0.042991):0.026190,((75:0.002769,76:0.007233):0.053070,59:0.113607):0.092845):0.041826,(((((112:0.085403,113:0.131579):0.017869,94:0.140019):0.010298,((114:0.014271,115:0.046680):0.054431,95:0.082801):0.053467):0.026883,((((((173:0.007318,174:0.005669):0.075969,((193:0.018572,194:0.018014,195:0.018164):0.010101,175:0.021008):0.065306):0.008456,128:0.114782):0.025695,(129:0.099672,130:0.088443):0.018916):0.084968,96:0.139470):0.025538,(((((176:0.058983,177:0.147093):0.017662,((196:0.060409,197:0.154819):0.024538,(((209:0.035049,210:0.016980,211:0.013121):0.081970,(212:0.051694,213:0.046410,214:0.050534):0.047126):0.064818,198:0.143151):0.027334):0.012659):0.009290,131:0.091464):0.011719,((150:0.040262,151:0.048078,152:0.049281):0.005598,132:0.067785):0.031285):0.031367,((((178:0.002476,179:0.025872):0.123535,(((((((232:0.036571,233:0.060500):0.017078,226:0.053893):0.001798,(227:0.011319,228:0.000766):0.026646):0.006283,215:0.058632):0.000009,(((229:0.019956,230:0.058362):0.012015,222:0.069973):0.003427,216:0.083593):0.004926):0.003363,(((((234:0.011978,235:0.015445):0.015912,231:0.018367):0.010905,223:0.109995):0.009339,217:0.033964):0.007951,((224:0.003146,225:0.008757):0.056218,218:0.029674):0.004976):0.006603):0.005248,(((219:0.003560,220:0.004778,221:0.002396):0.051495,204:0.021849):0.027302,199:0.063347):0.013918):0.004476):0.011617,((180:0.003920,181:0.005092):0.106107,153:0.070054):0.017046):0.037128,(((182:0.141468,183:0.155416):0.023473,154:0.070758):0.027383,133:0.092777):0.035488):0.020189):0.005527):0.033573):0.099263,(((97:0.033594,98:0.047298):0.027758,(((134:0.054813,135:0.030064):0.044689,(136:0.079630,((184:0.017119,185:0.012944):0.044273,(186:0.089579,187:0.066734):0.016582):0.012498):0.008561):0.012683,99:0.083360):0.005797):0.026990,((((((188:0.042993,189:0.023954):0.043616,155:0.095077):0.022065,(156:0.095990,157:0.083886):0.030706):0.014504,116:0.056458):0.038473,(((158:0.015524,159:0.014242):0.012713,137:0.037217):0.010752,117:0.116745):0.014070):0.033870,((118:0.053102,((160:0.016215,161:0.025304):0.009292,138:0.013916):0.014156):0.049813,100:0.105766):0.020562):0.034059):0.072362):0.012955):0.029752,((32:0.090037,33:0.105973):0.022770,20:0.071963):0.071642):0.038450):0.009546,(((21:0.028613,22:0.031843):0.129559,((34:0.057372,35:0.049429,36:0.062279,37:0.057358,38:0.055358,39:0.051872,40:0.047441,41:0.057874,42:0.045162):0.074287,23:0.110102):0.030175):0.038938,(((43:0.011636,44:0.029402):0.073597,((((101:0.014275,102:0.021639):0.060463,77:0.056510):0.016311,60:0.061020):0.013781,45:0.067895):0.040314):0.019830,((((78:0.015858,79:0.058132,80:0.014121):0.043606,(81:0.024838,82:0.037548):0.044470):0.013842,(61:0.056864,62:0.080994):0.024119):0.013670,24:0.102475):0.029241):0.022959):0.000001):0.009285,((((((63:0.020734,64:0.037471):0.004329,(((103:0.053434,104:0.043123):0.010084,83:0.044958):0.003174,65:0.049457):0.017938):0.000006,25:0.039239):0.014014,16:0.025158):0.071819,6:0.095188):0.007684,(((26:0.141134,(((84:0.030464,85:0.018269):0.033097,66:0.031129):0.006221,46:0.036261):0.033569):0.016024,(((((((139:0.004781,140:0.004339):0.027548,119:0.025993):0.009292,105:0.056489):0.004998,86:0.048243):0.013525,(((120:0.055423,121:0.017204):0.005363,106:0.010994):0.006005,87:0.029559):0.034864):0.009753,((((122:0.005711,123:0.002297):0.027637,107:0.023306):0.016343,((((162:0.015350,163:0.018465):0.009802,141:0.027620):0.031881,((164:0.063536,165:0.025717):0.000741,(166:0.054989,167:0.023535):0.013409):0.013540):0.003399,((((((205:0.050299,206:0.024369):0.010578,(207:0.030709,208:0.005392):0.032219):0.000006,190:0.038372):0.003938,168:0.044260):0.011093,142:0.072634):0.004076,124:0.031596):0.026706):0.008319):0.034433,67:0.095748):0.018228):0.012778,27:0.082855):0.020493):0.010271,(((47:0.025501,((88:0.037026,89:0.050071):0.002232,68:0.062687):0.029441):0.025889,(48:0.100833,49:0.084028):0.027046):0.009178,17:0.064379):0.020301):0.006043):0.070642):0.003879,(((((28:0.052931,29:0.058326):0.009965,(30:0.024254,31:0.031742):0.013488):0.014777,7:0.060891):0.033408,(8:0.012057,9:0.030880):0.057892):0.048555,((((((69:0.021741,70:0.010409):0.007055,((90:0.009375,91:0.010313):0.004090,71:0.009806):0.008828):0.000005,(50:0.022715,51:0.018811,52:0.022020,53:0.029815,54:0.017073,55:0.031819):0.004490):0.016960,18:0.012745):0.054479,10:0.071692):0.006393,((((56:0.046048,57:0.046376):0.019884,(58:0.115143,((92:0.042793,93:0.038744):0.010139,72:0.035097):0.023531):0.009962):0.022988,19:0.085236):0.009660,11:0.099912):0.011931):0.013529):0.019589):0.010875,(((3:0.105885,4:0.055687):0.034129,((12:0.027883,13:0.014840):0.017985,5:0.038730):0.057683):0.024672,2:0.082058):0.003609):0.006041):0.654334;
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Mon Oct 31 12:01:58 2016 ]
+END;
