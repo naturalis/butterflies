@@ -8,11 +8,12 @@ use Bio::Phylo::Util::Logger ':levels';
 
 # process command line arguments
 my $verbosity = WARN;
-my ( $spreadsheet, $intree );
+my ( $spreadsheet, $intree, $missing );
 GetOptions(
 	'spreadsheet=s' => \$spreadsheet,
 	'intree=s'      => \$intree,
 	'verbose+'      => \$verbosity,
+	'missing'       => \$missing,
 );
 
 # instantiate logger
@@ -52,14 +53,21 @@ while(<$fh>) {
 
 $log->info("found ".scalar(@keep)." tips to keep");
 $log->info(scalar(@missing)." species were absent from tree");
-$tree->keep_tips(\@keep);
 
-# convert to nexus
-my $fac = Bio::Phylo::Factory->new;
-my $proj = $fac->create_project;
-my $forest = $fac->create_forest;
-$forest->insert($tree);
-my $taxa = $forest->make_taxa;
-$proj->insert($taxa);
-$proj->insert($forest);
-print $proj->to_nexus;
+# write out the missing 
+if ( $missing ) {
+	print join "\n", @missing;
+}
+else {
+	$tree->keep_tips(\@keep);
+	
+	# convert to nexus
+	my $fac = Bio::Phylo::Factory->new;
+	my $proj = $fac->create_project;
+	my $forest = $fac->create_forest;
+	$forest->insert($tree);
+	my $taxa = $forest->make_taxa;
+	$proj->insert($taxa);
+	$proj->insert($forest);
+	print $proj->to_nexus;
+}
