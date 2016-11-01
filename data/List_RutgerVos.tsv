@@ -92,14 +92,14 @@ ID	Species	Family	Species	Binomial name / synonyms
 238	Colotis evagore	Pieridae	"Colotis evagore (Klug, 1829)"	
 173	Cupido alcetas	Lycaenidae	"Cupido alcetas (Hoffmannsegg, 1804)"	
 174	Cupido argiades	Lycaenidae	"Cupido argiades (Pallas, 1771)"	
-175	Cupido decoloratus	Lycaenidae	"Cupido decoloratus (Staudinger, 1886)"	"Cupido decolorata (STAUDINGER, 1886)"
+175	Cupido decolorata	Lycaenidae	"Cupido decoloratus (Staudinger, 1886)"	"Cupido decolorata (STAUDINGER, 1886)"
 373	Cupido lorquinii	Lycaenidae	"Cupido lorquinii (Herrich-Schäffer, 1847)"	
 176	Cupido minimus	Lycaenidae	"Cupido minimus (Fuessly, 1775)"	
 177	Cupido osiris	Lycaenidae	"Cupido osiris (Meigen, 1829)"	
 178	Cyaniris semiargus	Lycaenidae	"Cyaniris semiargus (Rottemburg, 1775)"	Polyommatus
 124	Danaus chrysippus	Nymphalidae	"Danaus chrysippus (Linnaeus, 1758)"	
 125	Danaus plexippus	Nymphalidae	"Danaus plexippus (Linnaeus, 1758)"	
-67	Erebia aethiopella	Nymphalidae	"Erebia aethiopella (Hoffmannsegg, 1806)"	"E. aethiopellus (HOFFMANNSEGG, 1806)"
+67	Erebia aethiopellus	Nymphalidae	"Erebia aethiopella (Hoffmannsegg, 1806)"	"E. aethiopellus (HOFFMANNSEGG, 1806)"
 68	Erebia aethiops	Nymphalidae	"Erebia aethiops (Esper, 1777)"	
 69	Erebia alberganus	Nymphalidae	"Erebia alberganus (De Prunner, 1798)"	
 70	Erebia calcaria	Nymphalidae	"Erebia calcaria Lorkovic, 1953"	
@@ -282,7 +282,7 @@ ID	Species	Family	Species	Binomial name / synonyms
 146	Pieris mannii	Pieridae	"Pieris mannii (Mayer, 1851)"	Artogeia
 147	Pieris napi	Pieridae	"Pieris napi (Linnaeus, 1758)"	Artogeia
 148	Pieris rapae	Pieridae	"Pieris rapae (Linnaeus, 1758)"	Artogeia
-313	Plebejus aquilo	Lycaenidae	"Plebejus aquilo (Boisduval, 1832)"	Agriades glandon aquilo
+313	Agriades aquilo	Lycaenidae	"Plebejus aquilo (Boisduval, 1832)"	Agriades glandon aquilo
 189	Plebejus argus	Lycaenidae	"Plebejus argus (Linnaeus, 1758)"	
 190	Plebejus argyrognomon	Lycaenidae	"Plebejus argyrognomon (Bergsträsser, 1779)"	Polyommatus
 377	Plebejus bellieri	Lycaenidae	"Plebejus bellieri (Oberthür, 1910)"	

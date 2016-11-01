@@ -25,11 +25,9 @@ Colias_aurorina
 Colias_caucasica
 Colias_crocea
 Colotis_evagore
-Cupido_decoloratus
 Cupido_lorquinii
 Danaus_chrysippus
 Danaus_plexippus
-Erebia_aethiopella
 Erebia_calcaria
 Erebia_christi
 Erebia_claudina
@@ -95,7 +93,6 @@ Papilio_alexanor
 Papilio_hospiton
 Pelopidas_thrax
 Pieris_krueperi
-Plebejus_aquilo
 Plebejus_bellieri
 Plebejus_dardanus
 Plebejus_eurypilus
