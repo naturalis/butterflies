@@ -187,4 +187,5 @@ for my $p ( sort { $a <=> $b } keys %points ) {
 
 }
 print "\tdivtime method=pl algorithm=tn;\n";
+print "\tdescribe plot=chrono_description;\n";
 print "END;\n";
