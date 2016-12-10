@@ -12,6 +12,63 @@
 	line.scale_major    {}
 	line.scale_minor    {}
 ]]></style>
+    <line class="scale_bar" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="50" x2="800" y1="3995" y2="3995" />
+    <text class="scale_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="806" y="3995">MYA</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="50" x2="50" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="50" y="3965">0</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="147.266773574696" x2="147.266773574696" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="147.266773574696" y="3965">25</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="244.533547149391" x2="244.533547149391" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="244.533547149391" y="3965">50</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="341.800320724087" x2="341.800320724087" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="341.800320724087" y="3965">75</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="439.067094298783" x2="439.067094298783" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="439.067094298783" y="3965">100</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="536.333867873479" x2="536.333867873479" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="536.333867873479" y="3965">125</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="633.600641448174" x2="633.600641448174" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="633.600641448174" y="3965">150</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="730.86741502287" x2="730.86741502287" y1="3995" y2="3975" />
+    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="730.86741502287" y="3965">175</text>
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="50" x2="50" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="69.4533547149391" x2="69.4533547149391" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="88.9067094298783" x2="88.9067094298783" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="108.360064144817" x2="108.360064144817" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="127.813418859757" x2="127.813418859757" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="147.266773574696" x2="147.266773574696" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="166.720128289635" x2="166.720128289635" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="186.173483004574" x2="186.173483004574" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="205.626837719513" x2="205.626837719513" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="225.080192434452" x2="225.080192434452" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="244.533547149391" x2="244.533547149391" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="263.986901864331" x2="263.986901864331" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="283.44025657927" x2="283.44025657927" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="302.893611294209" x2="302.893611294209" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="322.346966009148" x2="322.346966009148" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="341.800320724087" x2="341.800320724087" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="361.253675439026" x2="361.253675439026" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="380.707030153966" x2="380.707030153966" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="400.160384868905" x2="400.160384868905" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="419.613739583844" x2="419.613739583844" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="439.067094298783" x2="439.067094298783" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="458.520449013722" x2="458.520449013722" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="477.973803728661" x2="477.973803728661" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="497.427158443601" x2="497.427158443601" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="516.88051315854" x2="516.88051315854" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="536.333867873479" x2="536.333867873479" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="555.787222588418" x2="555.787222588418" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="575.240577303357" x2="575.240577303357" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="594.693932018296" x2="594.693932018296" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="614.147286733235" x2="614.147286733235" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="633.600641448174" x2="633.600641448174" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="653.053996163113" x2="653.053996163113" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="672.507350878053" x2="672.507350878053" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="691.960705592992" x2="691.960705592992" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="711.414060307931" x2="711.414060307931" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="730.86741502287" x2="730.86741502287" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="750.320769737809" x2="750.320769737809" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="769.774124452748" x2="769.774124452748" y1="3995" y2="3985" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="789.227479167687" x2="789.227479167687" y1="3995" y2="3985" />
     <polyline points="772,58 772,66 799,66" style="stroke: #628200; stroke-width: 1" />
     <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 799.999988327987 66.3865546218487)" x="805" y="70">Erebia aethiopellus</text>
     <polyline points="772,58 772,50 799,50" style="stroke: #628200; stroke-width: 1" />
