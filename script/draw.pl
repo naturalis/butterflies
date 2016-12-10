@@ -9,6 +9,7 @@ use Bio::Phylo::Util::Logger qw':simple :levels';
 
 # process command line arguments
 my ( $intree, $dir );
+my $genera    = 1;
 my $verbosity = WARN;
 my $width     = 1000;
 my $height    = 4000;
@@ -20,6 +21,7 @@ my $extension = 'nwk';
 my @colors    = qw(darkred darkviolet);
 GetOptions(
 	'verbose+'    => \$verbosity,
+	'genera'      => \$genera,
 	'intree=s'    => \$intree,
 	'dir=s'       => \$dir,
 	'width=i'     => \$width,
@@ -122,8 +124,31 @@ $tree->visit_depth_first(
 	}
 );
 
-INFO "writing SVG output to STDOUT";
+INFO "going to compute scale bar units";
 $drawer->get_tree->ladderize('reverse');
+$drawer->compute_coordinates;
+my $root = $drawer->get_tree->get_root;
+my $height_in_pixels = $root->get_leftmost_terminal->get_x - $root->get_x;
+my $height_in_myears = $root->calc_max_path_to_tips;
+my $pixels_per_myear = $height_in_pixels / $height_in_myears;
+
+INFO "setting scale, pixels per MYA: $pixels_per_myear";
+$drawer->set_scale_options(
+	'-width' => '100%',
+	'-major' => $pixels_per_myear * 25,
+	'-minor' => $pixels_per_myear * 5,
+	'-label' => 'MYA',
+	'-tmpl'  => sub {
+		my $value = shift;
+		return(($value == int($value)) ? $value : int($value + 1))
+	},
+	'-font'  => {
+		'-face' => 'Verdana',
+		'-size' => 11,
+	}
+);
+
+INFO "writing SVG output to STDOUT";
 for my $tip ( @{ $drawer->get_tree->get_terminals } ) {
 	$tip->set_font_face('Verdana');
 	$tip->set_font_style('Italic');
