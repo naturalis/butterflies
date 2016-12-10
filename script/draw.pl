@@ -11,7 +11,7 @@ use Bio::Phylo::Util::Logger qw':simple :levels';
 my ( $intree, $dir );
 my $verbosity = WARN;
 my $width     = 1000;
-my $height    = 1000;
+my $height    = 4000;
 my $format    = 'nexus'; # of $intree
 my $shape     = 'rect';
 my $mode      = 'phylo';
@@ -67,7 +67,7 @@ while( my $entry = readdir $dh ) {
 		if ( $family =~ /[A-Z][a-z]+/ ) {
 
 
-			INFO "going to look for mrca of $family";
+			INFO "reading $dir/$entry for clade $family";
 			my $ft = parse_tree(
 				'-format' => 'newick',
 				'-file'   => "$dir/$entry",
@@ -77,14 +77,26 @@ while( my $entry = readdir $dh ) {
 				<=>
 				scalar @{ $a->get_terminals }
 			} @{ $ft->get_root->get_children };
-			my @matches = grep { defined } map {
-				$tree->get_by_name($_->get_name)
-			} @{ $ingroup->get_terminals };
+
+			INFO "matching ingroup tips with tree";
+			my @matches;
+			for my $tip ( @{ $ingroup->get_terminals } ) {
+				my $name = $tip->get_name;
+				if ( my $match = $tree->get_by_name($name) ) {
+
+					INFO "found match for $name";
+					push @matches, $match;
+				}
+				else {
+					DEBUG "no match for $name";
+				}
+			}
+
 			if ( @matches ) {
 
 				INFO "have ingroup matches, fetching mrca";
 				my $mrca = $tree->get_mrca(\@matches);
-				$mrca->set_cladelabel($family);
+				$mrca->set_clade_label($family);
 				$clades++;
 			}
 		}
@@ -97,20 +109,24 @@ my $i = 0; # incrementing index
 $tree->visit_depth_first(
 	'-pre' => sub {
 		my $node = shift;
-		if ( my $label = $node->get_cladelabel ) {
+		if ( my $label = $node->get_clade_label ) {
 
 			INFO "going to paint $label with $spectrum[$i]";
-			$node->visit_depth_first(
-				'-pre' => sub {
-					my $n = shift;
-					$n->set_node_color($spectrum[$i]);
-					$n->set_branch_color($spectrum[$i]);
-				}
-			);
+			$node->set_node_color($spectrum[$i]);
+			for my $d ( @{ $node->get_descendants } ) {
+				$d->set_node_color($spectrum[$i]);
+				$d->set_branch_color($spectrum[$i]);
+			}
 			$i++;
 		}
 	}
 );
 
 INFO "writing SVG output to STDOUT";
+$drawer->get_tree->ladderize('reverse');
+for my $tip ( @{ $drawer->get_tree->get_terminals } ) {
+	$tip->set_font_face('Verdana');
+	$tip->set_font_style('Italic');
+	$tip->set_font_size(11);
+}
 print $drawer->draw;
