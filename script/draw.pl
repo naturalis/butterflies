@@ -11,9 +11,9 @@ use Bio::Phylo::Util::Logger qw':simple :levels';
 # process command line arguments
 my ( $intree, $fossils, $taxa );
 my $verbosity = WARN;
-my $width     = 1500;
+my $width     = 2000;
 my $height    = 2500;
-my $padding   = 40;
+my $padding   = 60;
 my $textsize  = 18;
 my $shape     = 'curvy';
 my $mode      = 'phylo';
