@@ -14,20 +14,22 @@ my $verbosity = WARN;
 my $width     = 1500;
 my $height    = 2500;
 my $padding   = 40;
+my $textsize  = 18;
 my $shape     = 'curvy';
 my $mode      = 'phylo';
 my @colors    = qw(darkred darkviolet);
 GetOptions(
-	'verbose+'  => \$verbosity,
-	'intree=s'  => \$intree,
-	'width=i'   => \$width,
-	'height=i'  => \$height,
-	'padding=i' => \$padding,
-	'shape=s'   => \$shape,
-	'mode=s'    => \$mode,
-	'taxa=s'    => \$taxa, # ML_trees_collapsed_families.tsv
-	'fossils=s' => \$fossils, # calibrations_timetree.tsv
-	'colors=s'  => sub { @colors = split /,/, pop }
+	'verbose+'    => \$verbosity,
+	'intree=s'    => \$intree,
+	'width=i'     => \$width,
+	'height=i'    => \$height,
+	'padding=i'   => \$padding,
+	'labelsize=i' => \$textsize,
+	'shape=s'     => \$shape,
+	'mode=s'      => \$mode,
+	'taxa=s'      => \$taxa, # ML_trees_collapsed_families.tsv
+	'fossils=s'   => \$fossils, # calibrations_timetree.tsv
+	'colors=s'    => sub { @colors = split /,/, pop }
 );
 
 ##########################################################################################
@@ -53,6 +55,8 @@ my $drawer = Bio::Phylo::Treedrawer->new(
 	'-padding' => $padding,
 	'-collapsed_clade_width' => 1/2,
 	'-text_horiz_offset'     => 10,
+	'-text_width'            => 200,
+	'-branch_width'          => 4,
 );
 
 INFO "going to create color spectrum";
@@ -129,8 +133,9 @@ $drawer->set_scale_options(
 		return(($value == int($value)) ? $value : int($value + 1))
 	},
 	'-font' => {
-		'-face' => 'Verdana',
-		'-size' => 11,
+		'-face'   => 'Verdana',
+		'-size'   => $textsize,
+		'-weight' => 'bold',
 	}
 );
 
@@ -178,9 +183,11 @@ $drawer->get_tree->visit_depth_first(
 						my $name = "$genus (n=$ntips)";
 						$c->set_name($name);
 						$c->set_collapsed(1);
-						$c->set_font_size(11);
+						$c->set_font_size($textsize);
 						$c->set_font_face('Verdana');
 						$c->set_font_weight('bold');
+						$c->set_node_colour($c->get_node_outline_colour);
+						$c->set_branch_width(0);
 						INFO "found monophyletic node for $genus (n=$ntips)";
 					}
 				}
@@ -193,7 +200,7 @@ $drawer->get_tree->visit_depth_first(
 INFO "writing SVG output to STDOUT";
 for my $tip ( @{ $drawer->get_tree->get_terminals } ) {
 	$tip->set_font_face('Verdana');
-	$tip->set_font_size(11);
+	$tip->set_font_size($textsize);
 	$tip->set_font_style('Italic') if not $tip->get_collapsed;	
 }
 print $drawer->draw;

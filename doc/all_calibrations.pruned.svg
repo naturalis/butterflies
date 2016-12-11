@@ -12,346 +12,346 @@
 	line.scale_major    {}
 	line.scale_minor    {}
 ]]></style>
-    <line class="scale_bar" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1310" x2="40" y1="2495" y2="2495" />
-    <text class="scale_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="1320" y="2495">MYA</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1310" x2="1310" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="1310" y="2465">0</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1145.29492751693" x2="1145.29492751693" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="1145.29492751693" y="2465">25</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="980.589855033859" x2="980.589855033859" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="980.589855033859" y="2465">50</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="815.884782550787" x2="815.884782550787" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="815.884782550787" y="2465">75</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="651.179710067716" x2="651.179710067716" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="651.179710067716" y="2465">100</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="486.474637584645" x2="486.474637584645" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="486.474637584645" y="2465">125</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="321.769565101574" x2="321.769565101574" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="321.769565101574" y="2465">150</text>
-    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="157.064492618503" x2="157.064492618503" y1="2495" y2="2475" />
-    <text class="major_label" style="font-family: Verdana; font-size: 11" transform="rotate()" x="157.064492618503" y="2465">175</text>
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1310" x2="1310" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1277.05898550339" x2="1277.05898550339" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1244.11797100677" x2="1244.11797100677" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1211.17695651016" x2="1211.17695651016" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1178.23594201354" x2="1178.23594201354" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1145.29492751693" x2="1145.29492751693" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1112.35391302032" x2="1112.35391302032" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1079.4128985237" x2="1079.4128985237" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1046.47188402709" x2="1046.47188402709" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1013.53086953047" x2="1013.53086953047" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="980.589855033859" x2="980.589855033859" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="947.648840537244" x2="947.648840537244" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="914.70782604063" x2="914.70782604063" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="881.766811544016" x2="881.766811544016" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="848.825797047402" x2="848.825797047402" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="815.884782550787" x2="815.884782550787" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="782.943768054173" x2="782.943768054173" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="750.002753557559" x2="750.002753557559" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="717.061739060945" x2="717.061739060945" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="684.120724564331" x2="684.120724564331" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="651.179710067716" x2="651.179710067716" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="618.238695571102" x2="618.238695571102" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="585.297681074488" x2="585.297681074488" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="552.356666577874" x2="552.356666577874" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="519.415652081259" x2="519.415652081259" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="486.474637584645" x2="486.474637584645" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="453.533623088031" x2="453.533623088031" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="420.592608591417" x2="420.592608591417" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="387.651594094802" x2="387.651594094802" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="354.710579598188" x2="354.710579598188" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="321.769565101574" x2="321.769565101574" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="288.82855060496" x2="288.82855060496" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="255.887536108346" x2="255.887536108346" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="222.946521611731" x2="222.946521611731" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="190.005507115117" x2="190.005507115117" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="157.064492618503" x2="157.064492618503" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="124.123478121889" x2="124.123478121889" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="91.1824636252744" x2="91.1824636252744" y1="2495" y2="2485" />
-    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="58.2414491286602" x2="58.2414491286602" y1="2495" y2="2485" />
-    <path d="M1096,83 C1096,97 1309,97 1309,97" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 97.6190476190476)" x="1319" y="101">Aphantopus hyperantus</text>
-    <path d="M1096,83 C1096,68 1120,68 1120,68" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed431" points="1120,68 1309,76 1309,61 1120,68 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text431" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="72">Pyronia (n=2)</text>
-    <path d="M1062,104 C1062,126 1309,126 1309,126" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 126.428571428571)" x="1319" y="130">Maniola jurtina</text>
-    <path d="M1062,104 C1062,83 1096,83 1096,83" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1006,72 C1006,104 1062,104 1062,104" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1006,72 C1006,40 1085,40 1085,40" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed374" points="1085,40 1309,47 1309,32 1085,40 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text374" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="44">Erebia (n=29)</text>
-    <path d="M1115,198 C1115,212 1309,212 1309,212" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 212.857142857143)" x="1319" y="216">Arethusana arethusa</text>
-    <path d="M1115,198 C1115,184 1309,184 1309,184" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 184.047619047619)" x="1319" y="188">Melanargia galathea</text>
-    <path d="M1073,176 C1073,198 1115,198 1115,198" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1073,176 C1073,155 1100,155 1100,155" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed355" points="1100,155 1309,162 1309,148 1100,155 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text355" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="159">Hipparchia (n=7)</text>
-    <path d="M1098,256 C1098,270 1309,270 1309,270" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 270.47619047619)" x="1319" y="274">Brintesia circe</text>
-    <path d="M1098,256 C1098,241 1309,241 1309,241" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 241.666666666667)" x="1319" y="245">Chazara briseis</text>
-    <path d="M1060,216 C1060,256 1098,256 1098,256" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1060,216 C1060,176 1073,176 1073,176" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1050,257 C1050,299 1309,299 1309,299" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 299.285714285714)" x="1319" y="303">Minois dryas</text>
-    <path d="M1050,257 C1050,216 1060,216 1060,216" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1034,292 C1034,328 1162,328 1162,328" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed367" points="1162,328 1309,335 1309,320 1162,328 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text367" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="332">Oeneis (n=4)</text>
-    <path d="M1034,292 C1034,257 1050,257 1050,257" style="stroke: #628200; stroke-width: 1" />
-    <path d="M972,182 C972,292 1034,292 1034,292" style="stroke: #628200; stroke-width: 1" />
-    <path d="M972,182 C972,72 1006,72 1006,72" style="stroke: #628200; stroke-width: 1" />
-    <path d="M999,371 C999,385 1309,385 1309,385" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 385.714285714286)" x="1319" y="389">Hyponephele lycaon</text>
-    <path d="M999,371 C999,356 1109,356 1109,356" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed327" points="1109,356 1309,364 1309,349 1109,356 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text327" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="360">Coenonympha (n=9)</text>
-    <path d="M963,277 C963,371 999,371 999,371" style="stroke: #628200; stroke-width: 1" />
-    <path d="M963,277 C963,182 972,182 972,182" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1058,428 C1058,443 1309,443 1309,443" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 443.333333333333)" x="1319" y="447">Kirinia roxelana</text>
-    <path d="M1058,428 C1058,414 1309,414 1309,414" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 414.52380952381)" x="1319" y="418">Lopinga achine</text>
-    <path d="M1014,450 C1014,472 1310,472 1310,472" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 472.142857142857)" x="1320" y="476">Pararge aegeria</text>
-    <path d="M1014,450 C1014,428 1058,428 1058,428" style="stroke: #628200; stroke-width: 1" />
-    <path d="M990,475 C990,500 1118,500 1118,500" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed320" points="1118,500 1310,508 1310,493 1118,500 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text320" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="504">Lasiommata (n=3)</text>
-    <path d="M990,475 C990,450 1014,450 1014,450" style="stroke: #628200; stroke-width: 1" />
-    <path d="M923,376 C923,475 990,475 990,475" style="stroke: #628200; stroke-width: 1" />
-    <path d="M923,376 C923,277 963,277 963,277" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1114,572 C1114,587 1310,587 1310,587" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 587.380952380952)" x="1320" y="591">Issoria lathonia</text>
-    <path d="M1114,572 C1114,558 1194,558 1194,558" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed470" points="1194,558 1309,565 1309,551 1194,558 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text470" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="562">Brenthis (n=3)</text>
-    <path d="M1070,551 C1070,572 1114,572 1114,572" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1070,551 C1070,529 1120,529 1120,529" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed458" points="1120,529 1310,536 1310,522 1120,529 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text458" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="533">Argynnis (n=6)</text>
-    <path d="M1016,583 C1016,616 1069,616 1069,616" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed476" points="1069,616 1309,623 1309,608 1069,616 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text476" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="620">Boloria (n=5)</text>
-    <path d="M1016,583 C1016,551 1070,551 1070,551" style="stroke: #628200; stroke-width: 1" />
-    <path d="M956,614 C956,645 1054,645 1054,645" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed437" points="1054,645 1309,652 1309,637 1054,645 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text437" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="649">Boloria (n=10)</text>
-    <path d="M956,614 C956,583 1016,583 1016,583" style="stroke: #628200; stroke-width: 1" />
-    <path d="M789,495 C789,614 956,614 956,614" style="stroke: #628200; stroke-width: 1" />
-    <path d="M789,495 C789,376 923,376 923,376" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1015,688 C1015,702 1121,702 1121,702" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed278" points="1121,702 1310,709 1310,695 1121,702 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text278" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="706">Euphydryas (n=4)</text>
-    <path d="M1015,688 C1015,673 1126,673 1126,673" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed285" points="1126,673 1310,681 1310,666 1126,673 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text285" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="677">Melitaea (n=11)</text>
-    <path d="M944,709 C944,731 1310,731 1310,731" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 731.428571428571)" x="1320" y="735">Libythea celtis</text>
-    <path d="M944,709 C944,688 1015,688 1015,688" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1129,774 C1129,789 1309,789 1309,789" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 789.047619047619)" x="1319" y="793">Polygonia egea</text>
-    <path d="M1129,774 C1129,760 1163,760 1163,760" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed262" points="1163,760 1309,767 1309,753 1163,760 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text262" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="764">Nymphalis (n=4)</text>
-    <path d="M1089,796 C1089,817 1310,817 1310,817" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 817.857142857143)" x="1320" y="821">Aglais io</text>
-    <path d="M1089,796 C1089,774 1129,774 1129,774" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1069,821 C1069,846 1310,846 1310,846" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 846.666666666667)" x="1320" y="850">Aglais urticae</text>
-    <path d="M1069,821 C1069,796 1089,796 1089,796" style="stroke: #628200; stroke-width: 1" />
-    <path d="M1012,848 C1012,875 1141,875 1141,875" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed272" points="1141,875 1310,882 1310,868 1141,875 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text272" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="879">Vanessa (n=2)</text>
-    <path d="M1012,848 C1012,821 1069,821 1069,821" style="stroke: #628200; stroke-width: 1" />
-    <path d="M966,876 C966,904 1309,904 1309,904" style="stroke: #628200; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 904.285714285714)" x="1319" y="908">Araschnia levana</text>
-    <path d="M966,876 C966,848 1012,848 1012,848" style="stroke: #628200; stroke-width: 1" />
-    <path d="M880,793 C880,876 966,876 966,876" style="stroke: #628200; stroke-width: 1" />
-    <path d="M880,793 C880,709 944,709 944,709" style="stroke: #628200; stroke-width: 1" />
-    <path d="M841,863 C841,933 1091,933 1091,933" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed307" points="1091,933 1309,940 1309,925 1091,933 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text307" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="937">Apatura (n=3)</text>
-    <path d="M841,863 C841,793 880,793 880,793" style="stroke: #628200; stroke-width: 1" />
-    <path d="M771,679 C771,863 841,863 841,863" style="stroke: #628200; stroke-width: 1" />
-    <path d="M771,679 C771,495 789,495 789,495" style="stroke: #628200; stroke-width: 1" />
-    <path d="M736,820 C736,961 991,961 991,961" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed485" points="991,961 1310,969 1310,954 991,961 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text485" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="965">Limenitis (n=3)</text>
-    <path d="M736,820 C736,679 771,679 771,679" style="stroke: #628200; stroke-width: 1" />
-    <path d="M685,905 C685,990 1007,990 1007,990" style="stroke: #628200; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed250" points="1007,990 1309,997 1309,983 1007,990 " style="fill: white; stroke: #628200; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text250" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="994">Neptis (n=2)</text>
-    <path d="M685,905 C685,820 736,820 736,820" style="stroke: #628200; stroke-width: 1" />
-    <path d="M939,1033 C939,1048 1023,1048 1023,1048" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed530" points="1023,1048 1309,1055 1309,1041 1023,1048 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text530" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1052">Pontia (n=2)</text>
-    <path d="M939,1033 C939,1019 997,1019 997,1019" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed522" points="997,1019 1309,1026 1309,1012 997,1019 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text522" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1023">Pieris (n=5)</text>
-    <path d="M887,1055 C887,1077 1309,1077 1309,1077" style="stroke: #8B0000; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1077.14285714286)" x="1319" y="1081">Pieris brassicae</text>
-    <path d="M887,1055 C887,1033 939,1033 939,1033" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M1092,1120 C1092,1134 1309,1134 1309,1134" style="stroke: #8B0000; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1134.7619047619)" x="1319" y="1138">Anthocharis cardamines</text>
-    <path d="M1092,1120 C1092,1105 1256,1105 1256,1105" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed514" points="1256,1105 1309,1113 1309,1098 1256,1105 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text514" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1109">Euchloe (n=2)</text>
-    <path d="M1045,1141 C1045,1163 1309,1163 1309,1163" style="stroke: #8B0000; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1163.57142857143)" x="1319" y="1167">Euchloe tagis</text>
-    <path d="M1045,1141 C1045,1120 1092,1120 1092,1120" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M1002,1167 C1002,1192 1309,1192 1309,1192" style="stroke: #8B0000; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1192.38095238095)" x="1319" y="1196">Zegris eupheme</text>
-    <path d="M1002,1167 C1002,1141 1045,1141 1045,1141" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M853,1194 C853,1221 1214,1221 1214,1221" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed508" points="1214,1221 1309,1228 1309,1213 1214,1221 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text508" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1225">Gonepteryx (n=2)</text>
-    <path d="M853,1194 C853,1167 1002,1167 1002,1167" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M768,1124 C768,1194 853,1194 853,1194" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M768,1124 C768,1055 887,1055 887,1055" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M897,1264 C897,1278 1309,1278 1309,1278" style="stroke: #8B0000; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1278.80952380952)" x="1319" y="1282">Aporia crataegi</text>
-    <path d="M897,1264 C897,1250 1131,1250 1131,1250" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed495" points="1131,1250 1309,1257 1309,1242 1131,1250 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text495" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1254">Colias (n=9)</text>
-    <path d="M796,1286 C796,1307 1202,1307 1202,1307" style="stroke: #8B0000; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed491" points="1202,1307 1309,1314 1309,1300 1202,1307 " style="fill: white; stroke: #8B0000; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text491" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1311">Leptidea (n=2)</text>
-    <path d="M796,1286 C796,1264 897,1264 897,1264" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M673,1105 C673,1286 796,1286 796,1286" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M673,1105 C673,1124 768,1124 768,1124" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M673,1105 C673,905 685,905 685,905" style="stroke: #8B0000; stroke-width: 1" />
-    <path d="M1279,1350 C1279,1365 1309,1365 1309,1365" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1365.2380952381)" x="1319" y="1369">Agriades aquilo</text>
-    <path d="M1279,1350 C1279,1336 1309,1336 1309,1336" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1336.42857142857)" x="1319" y="1340">Plebejus glandon</text>
-    <path d="M1200,1372 C1200,1394 1309,1394 1309,1394" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 1394.04761904762)" x="1319" y="1398">Plebejus optilete</text>
-    <path d="M1200,1372 C1200,1350 1279,1350 1279,1350" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1164,1415 C1164,1451 1309,1451 1309,1451" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1451.66666666667)" x="1319" y="1455">Cyaniris semiargus</text>
-    <path d="M1164,1415 C1164,1422 1309,1422 1309,1422" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1422.85714285714)" x="1319" y="1426">Plebejus orbitulus</text>
-    <path d="M1164,1415 C1164,1372 1200,1372 1200,1372" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1127,1448 C1127,1480 1226,1480 1226,1480" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed592" points="1226,1480 1309,1487 1309,1473 1226,1480 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text592" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1484">Aricia (n=3)</text>
-    <path d="M1127,1448 C1127,1415 1164,1415 1164,1415" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1119,1478 C1119,1509 1169,1509 1169,1509" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed605" points="1169,1509 1309,1516 1309,1502 1169,1509 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text605" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1513">Polyommatus (n=8)</text>
-    <path d="M1119,1478 C1119,1448 1127,1448 1127,1448" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1104,1508 C1104,1538 1192,1538 1192,1538" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed585" points="1192,1538 1310,1545 1310,1530 1192,1538 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text585" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="1542">Plebejus (n=3)</text>
-    <path d="M1104,1508 C1104,1478 1119,1478 1119,1478" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1027,1537 C1027,1566 1309,1566 1309,1566" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1566.90476190476)" x="1319" y="1570">Celastrina argiolus</text>
-    <path d="M1027,1537 C1027,1508 1104,1508 1104,1508" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1122,1610 C1122,1624 1309,1624 1309,1624" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1624.52380952381)" x="1319" y="1628">Scolitantides orion</text>
-    <path d="M1122,1610 C1122,1595 1173,1595 1173,1595" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed569" points="1173,1595 1309,1602 1309,1588 1173,1595 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text569" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1599">Pseudophilotes (n=3)</text>
-    <path d="M1102,1631 C1102,1653 1309,1653 1309,1653" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1653.33333333333)" x="1319" y="1657">Glaucopsyche alexis</text>
-    <path d="M1102,1631 C1102,1610 1122,1610 1122,1610" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1038,1656 C1038,1682 1175,1682 1175,1682" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed576" points="1175,1682 1310,1689 1310,1674 1175,1682 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text576" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="1686">Phengaris (n=4)</text>
-    <path d="M1038,1656 C1038,1631 1102,1631 1102,1631" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M988,1597 C988,1656 1038,1656 1038,1656" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M988,1597 C988,1537 1027,1537 1027,1537" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M953,1654 C953,1710 1309,1710 1309,1710" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1710.95238095238)" x="1319" y="1714">Lampides boeticus</text>
-    <path d="M953,1654 C953,1597 988,1597 988,1597" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M945,1754 C945,1768 1310,1768 1310,1768" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 1768.57142857143)" x="1320" y="1772">Cacyreus marshalli</text>
-    <path d="M945,1754 C945,1739 1110,1739 1110,1739" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed555" points="1110,1739 1309,1746 1309,1732 1110,1739 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text555" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1743">Cupido (n=5)</text>
-    <path d="M891,1704 C891,1754 945,1754 945,1754" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M891,1704 C891,1654 953,1654 953,1654" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M1040,1840 C1040,1855 1309,1855 1309,1855" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1855)" x="1319" y="1859">Favonius quercus</text>
-    <path d="M1040,1840 C1040,1826 1309,1826 1309,1826" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1826.19047619048)" x="1319" y="1830">Thecla betulae</text>
-    <path d="M970,1818 C970,1840 1040,1840 1040,1840" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M970,1818 C970,1797 1089,1797 1089,1797" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed623" points="1089,1797 1309,1804 1309,1790 1089,1797 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text623" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1801">Satyrium (n=4)</text>
-    <path d="M943,1851 C943,1883 1309,1883 1309,1883" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1883.80952380952)" x="1319" y="1887">Callophrys rubi</text>
-    <path d="M943,1851 C943,1818 970,1818 970,1818" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M863,1777 C863,1851 943,1851 943,1851" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M863,1777 C863,1704 891,1704 891,1704" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M875,1927 C875,1941 1309,1941 1309,1941" style="stroke: #00B843; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1310 1941.42857142857)" x="1319" y="1945">Leptotes pirithous</text>
-    <path d="M875,1927 C875,1912 1113,1912 1113,1912" style="stroke: #00B843; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed536" points="1113,1912 1310,1919 1310,1905 1113,1912 " style="fill: white; stroke: #00B843; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text536" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1320" y="1916">Lycaena (n=8)</text>
-    <path d="M847,1852 C847,1927 875,1927 875,1927" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M847,1852 C847,1777 863,1777 863,1777" style="stroke: #00B843; stroke-width: 1" />
-    <path d="M660,1478 C660,1852 847,1852 847,1852" style="stroke: black; stroke-width: 1" />
-    <path d="M660,1478 C660,1105 673,1105 673,1105" style="stroke: black; stroke-width: 1" />
-    <path d="M825,1984 C825,1999 1309,1999 1309,1999" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 1999.04761904762)" x="1319" y="2003">Erynnis tages</text>
-    <path d="M825,1984 C825,1970 1134,1970 1134,1970" style="stroke: #0261CD; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed650" points="1134,1970 1309,1977 1309,1963 1134,1970 " style="fill: white; stroke: #0261CD; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text650" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="1974">Pyrgus (n=12)</text>
-    <path d="M992,2042 C992,2056 1309,2056 1309,2056" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2056.66666666667)" x="1319" y="2060">Gegenes nostrodamus</text>
-    <path d="M992,2042 C992,2027 1107,2027 1107,2027" style="stroke: #0261CD; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed677" points="1107,2027 1309,2035 1309,2020 1107,2027 " style="fill: white; stroke: #0261CD; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text677" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="2031">Thymelicus (n=3)</text>
-    <path d="M1069,2099 C1069,2114 1309,2114 1309,2114" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2114.28571428571)" x="1319" y="2118">Hesperia comma</text>
-    <path d="M1069,2099 C1069,2085 1309,2085 1309,2085" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2085.47619047619)" x="1319" y="2089">Ochlodes sylvanus</text>
-    <path d="M959,2071 C959,2099 1069,2099 1069,2099" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M959,2071 C959,2042 992,2042 992,2042" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M874,2107 C874,2143 1309,2143 1309,2143" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2143.09523809524)" x="1319" y="2147">Carterocephalus palaemon</text>
-    <path d="M874,2107 C874,2071 959,2071 959,2071" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M838,2139 C838,2171 1309,2171 1309,2171" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2171.90476190476)" x="1319" y="2175">Heteropterus morpheus</text>
-    <path d="M838,2139 C838,2107 874,2107 874,2107" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M788,2062 C788,2139 838,2139 838,2139" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M788,2062 C788,1984 825,1984 825,1984" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M1097,2215 C1097,2229 1175,2229 1175,2229" style="stroke: #0261CD; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed641" points="1175,2229 1309,2236 1309,2222 1175,2229 " style="fill: white; stroke: #0261CD; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text641" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="2233">Carcharodus (n=2)</text>
-    <path d="M1097,2215 C1097,2200 1127,2200 1127,2200" style="stroke: #0261CD; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed638" points="1127,2200 1309,2207 1309,2193 1127,2200 " style="fill: white; stroke: #0261CD; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text638" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="2204">Muschampia (n=2)</text>
-    <path d="M1043,2236 C1043,2258 1309,2258 1309,2258" style="stroke: #0261CD; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2258.33333333333)" x="1319" y="2262">Carcharodus alceae</text>
-    <path d="M1043,2236 C1043,2215 1097,2215 1097,2215" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M922,2261 C922,2287 1206,2287 1206,2287" style="stroke: #0261CD; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed645" points="1206,2287 1309,2294 1309,2279 1206,2287 " style="fill: white; stroke: #0261CD; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text645" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="2291">Spialia (n=2)</text>
-    <path d="M922,2261 C922,2236 1043,2236 1043,2236" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M724,2162 C724,2261 922,2261 922,2261" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M724,2162 C724,2062 788,2062 788,2062" style="stroke: #0261CD; stroke-width: 1" />
-    <path d="M645,1820 C645,2162 724,2162 724,2162" style="stroke: black; stroke-width: 1" />
-    <path d="M645,1820 C645,1478 660,1478 660,1478" style="stroke: black; stroke-width: 1" />
-    <path d="M904,2359 C904,2373 1309,2373 1309,2373" style="stroke: #9400D3; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2373.57142857143)" x="1319" y="2377">Papilio machaon</text>
-    <path d="M904,2359 C904,2344 1309,2344 1309,2344" style="stroke: #9400D3; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2344.7619047619)" x="1319" y="2348">Zerynthia polyxena</text>
-    <path d="M750,2337 C750,2359 904,2359 904,2359" style="stroke: #9400D3; stroke-width: 1" />
-    <path d="M750,2337 C750,2315 1084,2315 1084,2315" style="stroke: #9400D3; stroke-width: 1" />
-    <polygon class="collapsed" id="collapsed689" points="1084,2315 1309,2323 1309,2308 1084,2315 " style="fill: white; stroke: #9400D3; stroke-width: 1" />
-    <text class="collapsed_text" id="collapsed_text689" style="font-family: Verdana; font-size: 11; font-weight: bold" transform="rotate()" x="1319" y="2319">Parnassius (n=3)</text>
-    <path d="M629,2369 C629,2402 1309,2402 1309,2402" style="stroke: #9400D3; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.9999934118 2402.38095238095)" x="1319" y="2406">Iphiclides podalirius</text>
-    <path d="M629,2369 C629,2337 750,2337 750,2337" style="stroke: #9400D3; stroke-width: 1" />
-    <path d="M611,2095 C611,2369 629,2369 629,2369" style="stroke: black; stroke-width: 1" />
-    <path d="M611,2095 C611,1820 645,1820 645,1820" style="stroke: black; stroke-width: 1" />
-    <path d="M40,2263 C40,2431 1309,2431 1309,2431" style="stroke: black; stroke-width: 1" />
-    <text class="taxon_text" style="font-family: Verdana; font-size: 11; font-style: Italic" transform="rotate( 1309.99998682359 2431.19047619048)" x="1319" y="2435">Hamearis lucina</text>
-    <path d="M40,2263 C40,2095 611,2095 611,2095" style="stroke: black; stroke-width: 1" />
+    <line class="scale_bar" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1260" x2="40" y1="2495" y2="2495" />
+    <text class="scale_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="2495">MYA</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1260" x2="1260" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1260" y="2465">0</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1101.77937918949" x2="1101.77937918949" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1101.77937918949" y="2465">25</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="943.558758378981" x2="943.558758378981" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="943.558758378981" y="2465">50</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="785.338137568472" x2="785.338137568472" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="785.338137568472" y="2465">75</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="627.117516757962" x2="627.117516757962" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="627.117516757962" y="2465">100</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="468.896895947453" x2="468.896895947453" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="468.896895947453" y="2465">125</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="310.676275136944" x2="310.676275136944" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="310.676275136944" y="2465">150</text>
+    <line class="scale_major" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="152.455654326435" x2="152.455654326435" y1="2495" y2="2475" />
+    <text class="major_label" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="152.455654326435" y="2465">175</text>
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1260" x2="1260" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1228.3558758379" x2="1228.3558758379" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1196.7117516758" x2="1196.7117516758" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1165.06762751369" x2="1165.06762751369" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1133.42350335159" x2="1133.42350335159" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1101.77937918949" x2="1101.77937918949" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1070.13525502739" x2="1070.13525502739" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1038.49113086529" x2="1038.49113086529" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="1006.84700670318" x2="1006.84700670318" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="975.202882541083" x2="975.202882541083" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="943.558758378981" x2="943.558758378981" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="911.914634216879" x2="911.914634216879" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="880.270510054777" x2="880.270510054777" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="848.626385892675" x2="848.626385892675" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="816.982261730574" x2="816.982261730574" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="785.338137568472" x2="785.338137568472" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="753.69401340637" x2="753.69401340637" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="722.049889244268" x2="722.049889244268" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="690.405765082166" x2="690.405765082166" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="658.761640920064" x2="658.761640920064" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="627.117516757962" x2="627.117516757962" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="595.47339259586" x2="595.47339259586" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="563.829268433758" x2="563.829268433758" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="532.185144271657" x2="532.185144271657" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="500.541020109555" x2="500.541020109555" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="468.896895947453" x2="468.896895947453" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="437.252771785351" x2="437.252771785351" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="405.608647623249" x2="405.608647623249" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="373.964523461147" x2="373.964523461147" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="342.320399299046" x2="342.320399299046" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="310.676275136944" x2="310.676275136944" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="279.032150974842" x2="279.032150974842" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="247.38802681274" x2="247.38802681274" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="215.743902650638" x2="215.743902650638" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="184.099778488536" x2="184.099778488536" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="152.455654326435" x2="152.455654326435" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="120.811530164333" x2="120.811530164333" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="89.1674060022309" x2="89.1674060022309" y1="2495" y2="2485" />
+    <line class="scale_minor" style="stroke: black; stroke-width: 1; stroke-linecap: butt" x1="57.523281840129" x2="57.523281840129" y1="2495" y2="2485" />
+    <path d="M1054,83 C1054,97 1259,97 1259,97" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 97.6190476190476)" x="1269" y="101">Aphantopus hyperantus</text>
+    <path d="M1054,83 C1054,68 1077,68 1077,68" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed431" points="1077,68 1259,76 1259,61 1077,68 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text431" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="72">Pyronia (n=2)</text>
+    <path d="M1021,104 C1021,126 1259,126 1259,126" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 126.428571428571)" x="1269" y="130">Maniola jurtina</text>
+    <path d="M1021,104 C1021,83 1054,83 1054,83" style="stroke: #628200; stroke-width: 4" />
+    <path d="M968,72 C968,104 1021,104 1021,104" style="stroke: #628200; stroke-width: 4" />
+    <path d="M968,72 C968,40 1044,40 1044,40" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed374" points="1044,40 1259,47 1259,32 1044,40 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text374" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="44">Erebia (n=29)</text>
+    <path d="M1073,198 C1073,212 1259,212 1259,212" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 212.857142857143)" x="1269" y="216">Arethusana arethusa</text>
+    <path d="M1073,198 C1073,184 1259,184 1259,184" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 184.047619047619)" x="1269" y="188">Melanargia galathea</text>
+    <path d="M1032,176 C1032,198 1073,198 1073,198" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1032,176 C1032,155 1058,155 1058,155" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed355" points="1058,155 1259,162 1259,148 1058,155 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text355" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="159">Hipparchia (n=7)</text>
+    <path d="M1057,256 C1057,270 1259,270 1259,270" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 270.47619047619)" x="1269" y="274">Brintesia circe</text>
+    <path d="M1057,256 C1057,241 1259,241 1259,241" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 241.666666666667)" x="1269" y="245">Chazara briseis</text>
+    <path d="M1020,216 C1020,256 1057,256 1057,256" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1020,216 C1020,176 1032,176 1032,176" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1010,257 C1010,299 1259,299 1259,299" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 299.285714285714)" x="1269" y="303">Minois dryas</text>
+    <path d="M1010,257 C1010,216 1020,216 1020,216" style="stroke: #628200; stroke-width: 4" />
+    <path d="M995,292 C995,328 1117,328 1117,328" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed367" points="1117,328 1259,335 1259,320 1117,328 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text367" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="332">Oeneis (n=4)</text>
+    <path d="M995,292 C995,257 1010,257 1010,257" style="stroke: #628200; stroke-width: 4" />
+    <path d="M935,182 C935,292 995,292 995,292" style="stroke: #628200; stroke-width: 4" />
+    <path d="M935,182 C935,72 968,72 968,72" style="stroke: #628200; stroke-width: 4" />
+    <path d="M961,371 C961,385 1259,385 1259,385" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 385.714285714286)" x="1269" y="389">Hyponephele lycaon</text>
+    <path d="M961,371 C961,356 1066,356 1066,356" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed327" points="1066,356 1259,364 1259,349 1066,356 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text327" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="360">Coenonympha (n=9)</text>
+    <path d="M926,277 C926,371 961,371 961,371" style="stroke: #628200; stroke-width: 4" />
+    <path d="M926,277 C926,182 935,182 935,182" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1018,428 C1018,443 1260,443 1260,443" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 443.333333333333)" x="1270" y="447">Kirinia roxelana</text>
+    <path d="M1018,428 C1018,414 1260,414 1260,414" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 414.52380952381)" x="1270" y="418">Lopinga achine</text>
+    <path d="M976,450 C976,472 1260,472 1260,472" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 472.142857142857)" x="1270" y="476">Pararge aegeria</text>
+    <path d="M976,450 C976,428 1018,428 1018,428" style="stroke: #628200; stroke-width: 4" />
+    <path d="M953,475 C953,500 1076,500 1076,500" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed320" points="1076,500 1260,508 1260,493 1076,500 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text320" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="504">Lasiommata (n=3)</text>
+    <path d="M953,475 C953,450 976,450 976,450" style="stroke: #628200; stroke-width: 4" />
+    <path d="M888,376 C888,475 953,475 953,475" style="stroke: #628200; stroke-width: 4" />
+    <path d="M888,376 C888,277 926,277 926,277" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1072,572 C1072,587 1260,587 1260,587" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 587.380952380952)" x="1270" y="591">Issoria lathonia</text>
+    <path d="M1072,572 C1072,558 1149,558 1149,558" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed470" points="1149,558 1260,565 1260,551 1149,558 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text470" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="562">Brenthis (n=3)</text>
+    <path d="M1030,551 C1030,572 1072,572 1072,572" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1030,551 C1030,529 1078,529 1078,529" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed458" points="1078,529 1260,536 1260,522 1078,529 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text458" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="533">Argynnis (n=6)</text>
+    <path d="M977,583 C977,616 1029,616 1029,616" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed476" points="1029,616 1259,623 1259,608 1029,616 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text476" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="620">Boloria (n=5)</text>
+    <path d="M977,583 C977,551 1030,551 1030,551" style="stroke: #628200; stroke-width: 4" />
+    <path d="M920,614 C920,645 1014,645 1014,645" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed437" points="1014,645 1260,652 1260,637 1014,645 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text437" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="649">Boloria (n=10)</text>
+    <path d="M920,614 C920,583 977,583 977,583" style="stroke: #628200; stroke-width: 4" />
+    <path d="M760,495 C760,614 920,614 920,614" style="stroke: #628200; stroke-width: 4" />
+    <path d="M760,495 C760,376 888,376 888,376" style="stroke: #628200; stroke-width: 4" />
+    <path d="M976,688 C976,702 1078,702 1078,702" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed278" points="1078,702 1260,709 1260,695 1078,702 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text278" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="706">Euphydryas (n=4)</text>
+    <path d="M976,688 C976,673 1084,673 1084,673" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed285" points="1084,673 1260,681 1260,666 1084,673 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text285" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="677">Melitaea (n=11)</text>
+    <path d="M908,709 C908,731 1260,731 1260,731" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 731.428571428571)" x="1270" y="735">Libythea celtis</text>
+    <path d="M908,709 C908,688 976,688 976,688" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1086,774 C1086,789 1259,789 1259,789" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 789.047619047619)" x="1269" y="793">Polygonia egea</text>
+    <path d="M1086,774 C1086,760 1119,760 1119,760" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed262" points="1119,760 1259,767 1259,753 1119,760 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text262" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="764">Nymphalis (n=4)</text>
+    <path d="M1048,796 C1048,817 1260,817 1260,817" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 817.857142857143)" x="1270" y="821">Aglais io</text>
+    <path d="M1048,796 C1048,774 1086,774 1086,774" style="stroke: #628200; stroke-width: 4" />
+    <path d="M1028,821 C1028,846 1260,846 1260,846" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 846.666666666667)" x="1270" y="850">Aglais urticae</text>
+    <path d="M1028,821 C1028,796 1048,796 1048,796" style="stroke: #628200; stroke-width: 4" />
+    <path d="M974,848 C974,875 1098,875 1098,875" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed272" points="1098,875 1260,882 1260,868 1098,875 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text272" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="879">Vanessa (n=2)</text>
+    <path d="M974,848 C974,821 1028,821 1028,821" style="stroke: #628200; stroke-width: 4" />
+    <path d="M929,876 C929,904 1259,904 1259,904" style="stroke: #628200; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 904.285714285714)" x="1269" y="908">Araschnia levana</text>
+    <path d="M929,876 C929,848 974,848 974,848" style="stroke: #628200; stroke-width: 4" />
+    <path d="M847,793 C847,876 929,876 929,876" style="stroke: #628200; stroke-width: 4" />
+    <path d="M847,793 C847,709 908,709 908,709" style="stroke: #628200; stroke-width: 4" />
+    <path d="M809,863 C809,933 1050,933 1050,933" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed307" points="1050,933 1259,940 1259,925 1050,933 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text307" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="937">Apatura (n=3)</text>
+    <path d="M809,863 C809,793 847,793 847,793" style="stroke: #628200; stroke-width: 4" />
+    <path d="M742,679 C742,863 809,863 809,863" style="stroke: #628200; stroke-width: 4" />
+    <path d="M742,679 C742,495 760,495 760,495" style="stroke: #628200; stroke-width: 4" />
+    <path d="M709,820 C709,961 953,961 953,961" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed485" points="953,961 1260,969 1260,954 953,961 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text485" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="965">Limenitis (n=3)</text>
+    <path d="M709,820 C709,679 742,679 742,679" style="stroke: #628200; stroke-width: 4" />
+    <path d="M660,905 C660,990 968,990 968,990" style="stroke: #628200; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed250" points="968,990 1259,997 1259,983 968,990 " style="fill: #628200; stroke: #628200; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text250" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="994">Neptis (n=2)</text>
+    <path d="M660,905 C660,820 709,820 709,820" style="stroke: #628200; stroke-width: 4" />
+    <path d="M903,1033 C903,1048 985,1048 985,1048" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed530" points="985,1048 1259,1055 1259,1041 985,1048 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text530" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1052">Pontia (n=2)</text>
+    <path d="M903,1033 C903,1019 959,1019 959,1019" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed522" points="959,1019 1259,1026 1259,1012 959,1019 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text522" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1023">Pieris (n=5)</text>
+    <path d="M854,1055 C854,1077 1259,1077 1259,1077" style="stroke: #8B0000; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 1077.14285714286)" x="1269" y="1081">Pieris brassicae</text>
+    <path d="M854,1055 C854,1033 903,1033 903,1033" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M1051,1120 C1051,1134 1259,1134 1259,1134" style="stroke: #8B0000; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1134.7619047619)" x="1269" y="1138">Anthocharis cardamines</text>
+    <path d="M1051,1120 C1051,1105 1208,1105 1208,1105" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed514" points="1208,1105 1259,1113 1259,1098 1208,1105 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text514" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1109">Euchloe (n=2)</text>
+    <path d="M1005,1141 C1005,1163 1259,1163 1259,1163" style="stroke: #8B0000; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1163.57142857143)" x="1269" y="1167">Euchloe tagis</text>
+    <path d="M1005,1141 C1005,1120 1051,1120 1051,1120" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M964,1167 C964,1192 1259,1192 1259,1192" style="stroke: #8B0000; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1192.38095238095)" x="1269" y="1196">Zegris eupheme</text>
+    <path d="M964,1167 C964,1141 1005,1141 1005,1141" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M821,1194 C821,1221 1168,1221 1168,1221" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed508" points="1168,1221 1259,1228 1259,1213 1168,1221 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text508" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1225">Gonepteryx (n=2)</text>
+    <path d="M821,1194 C821,1167 964,1167 964,1167" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M740,1124 C740,1194 821,1194 821,1194" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M740,1124 C740,1055 854,1055 854,1055" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M863,1264 C863,1278 1259,1278 1259,1278" style="stroke: #8B0000; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1278.80952380952)" x="1269" y="1282">Aporia crataegi</text>
+    <path d="M863,1264 C863,1250 1088,1250 1088,1250" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed495" points="1088,1250 1259,1257 1259,1242 1088,1250 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text495" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1254">Colias (n=9)</text>
+    <path d="M766,1286 C766,1307 1156,1307 1156,1307" style="stroke: #8B0000; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed491" points="1156,1307 1259,1314 1259,1300 1156,1307 " style="fill: #8B0000; stroke: #8B0000; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text491" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1311">Leptidea (n=2)</text>
+    <path d="M766,1286 C766,1264 863,1264 863,1264" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M648,1105 C648,1286 766,1286 766,1286" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M648,1105 C648,1124 740,1124 740,1124" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M648,1105 C648,905 660,905 660,905" style="stroke: #8B0000; stroke-width: 4" />
+    <path d="M1230,1350 C1230,1365 1259,1365 1259,1365" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1365.2380952381)" x="1269" y="1369">Agriades aquilo</text>
+    <path d="M1230,1350 C1230,1336 1259,1336 1259,1336" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1336.42857142857)" x="1269" y="1340">Plebejus glandon</text>
+    <path d="M1155,1372 C1155,1394 1260,1394 1260,1394" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 1394.04761904762)" x="1270" y="1398">Plebejus optilete</text>
+    <path d="M1155,1372 C1155,1350 1230,1350 1230,1350" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1120,1415 C1120,1451 1259,1451 1259,1451" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 1451.66666666667)" x="1269" y="1455">Cyaniris semiargus</text>
+    <path d="M1120,1415 C1120,1422 1259,1422 1259,1422" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 1422.85714285714)" x="1269" y="1426">Plebejus orbitulus</text>
+    <path d="M1120,1415 C1120,1372 1155,1372 1155,1372" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1084,1448 C1084,1480 1179,1480 1179,1480" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed592" points="1179,1480 1259,1487 1259,1473 1179,1480 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text592" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1484">Aricia (n=3)</text>
+    <path d="M1084,1448 C1084,1415 1120,1415 1120,1415" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1077,1478 C1077,1509 1124,1509 1124,1509" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed605" points="1124,1509 1259,1516 1259,1502 1124,1509 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text605" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1513">Polyommatus (n=8)</text>
+    <path d="M1077,1478 C1077,1448 1084,1448 1084,1448" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1062,1508 C1062,1538 1146,1538 1146,1538" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed585" points="1146,1538 1260,1545 1260,1530 1146,1538 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text585" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="1542">Plebejus (n=3)</text>
+    <path d="M1062,1508 C1062,1478 1077,1478 1077,1478" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M988,1537 C988,1566 1259,1566 1259,1566" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1566.90476190476)" x="1269" y="1570">Celastrina argiolus</text>
+    <path d="M988,1537 C988,1508 1062,1508 1062,1508" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1079,1610 C1079,1624 1259,1624 1259,1624" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1624.52380952381)" x="1269" y="1628">Scolitantides orion</text>
+    <path d="M1079,1610 C1079,1595 1128,1595 1128,1595" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed569" points="1128,1595 1259,1602 1259,1588 1128,1595 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text569" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1599">Pseudophilotes (n=3)</text>
+    <path d="M1061,1631 C1061,1653 1259,1653 1259,1653" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1653.33333333333)" x="1269" y="1657">Glaucopsyche alexis</text>
+    <path d="M1061,1631 C1061,1610 1079,1610 1079,1610" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M999,1656 C999,1682 1131,1682 1131,1682" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed576" points="1131,1682 1260,1689 1260,1674 1131,1682 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text576" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="1686">Phengaris (n=4)</text>
+    <path d="M999,1656 C999,1631 1061,1631 1061,1631" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M950,1597 C950,1656 999,1656 999,1656" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M950,1597 C950,1537 988,1537 988,1537" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M917,1654 C917,1710 1259,1710 1259,1710" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1710.95238095238)" x="1269" y="1714">Lampides boeticus</text>
+    <path d="M917,1654 C917,1597 950,1597 950,1597" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M909,1754 C909,1768 1260,1768 1260,1768" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 1768.57142857143)" x="1270" y="1772">Cacyreus marshalli</text>
+    <path d="M909,1754 C909,1739 1068,1739 1068,1739" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed555" points="1068,1739 1260,1746 1260,1732 1068,1739 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text555" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="1743">Cupido (n=5)</text>
+    <path d="M858,1704 C858,1754 909,1754 909,1754" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M858,1704 C858,1654 917,1654 917,1654" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M1001,1840 C1001,1855 1259,1855 1259,1855" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1855)" x="1269" y="1859">Favonius quercus</text>
+    <path d="M1001,1840 C1001,1826 1259,1826 1259,1826" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1826.19047619048)" x="1269" y="1830">Thecla betulae</text>
+    <path d="M934,1818 C934,1840 1001,1840 1001,1840" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M934,1818 C934,1797 1047,1797 1047,1797" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed623" points="1047,1797 1259,1804 1259,1790 1047,1797 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text623" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1801">Satyrium (n=4)</text>
+    <path d="M908,1851 C908,1883 1259,1883 1259,1883" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1883.80952380952)" x="1269" y="1887">Callophrys rubi</text>
+    <path d="M908,1851 C908,1818 934,1818 934,1818" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M831,1777 C831,1851 908,1851 908,1851" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M831,1777 C831,1704 858,1704 858,1704" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M842,1927 C842,1941 1260,1941 1260,1941" style="stroke: #00B843; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1260 1941.42857142857)" x="1270" y="1945">Leptotes pirithous</text>
+    <path d="M842,1927 C842,1912 1071,1912 1071,1912" style="stroke: #00B843; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed536" points="1071,1912 1260,1919 1260,1905 1071,1912 " style="fill: #00B843; stroke: #00B843; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text536" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="1916">Lycaena (n=8)</text>
+    <path d="M815,1852 C815,1927 842,1927 842,1927" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M815,1852 C815,1777 831,1777 831,1777" style="stroke: #00B843; stroke-width: 4" />
+    <path d="M635,1478 C635,1852 815,1852 815,1852" style="stroke: black; stroke-width: 4" />
+    <path d="M635,1478 C635,1105 648,1105 648,1105" style="stroke: black; stroke-width: 4" />
+    <path d="M795,1984 C795,1999 1259,1999 1259,1999" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 1999.04761904762)" x="1269" y="2003">Erynnis tages</text>
+    <path d="M795,1984 C795,1970 1091,1970 1091,1970" style="stroke: #0261CD; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed650" points="1091,1970 1259,1977 1259,1963 1091,1970 " style="fill: #0261CD; stroke: #0261CD; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text650" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="1974">Pyrgus (n=12)</text>
+    <path d="M955,2042 C955,2056 1259,2056 1259,2056" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2056.66666666667)" x="1269" y="2060">Gegenes nostrodamus</text>
+    <path d="M955,2042 C955,2027 1065,2027 1065,2027" style="stroke: #0261CD; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed677" points="1065,2027 1260,2035 1260,2020 1065,2027 " style="fill: #0261CD; stroke: #0261CD; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text677" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1270" y="2031">Thymelicus (n=3)</text>
+    <path d="M1028,2099 C1028,2114 1259,2114 1259,2114" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2114.28571428571)" x="1269" y="2118">Hesperia comma</text>
+    <path d="M1028,2099 C1028,2085 1259,2085 1259,2085" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2085.47619047619)" x="1269" y="2089">Ochlodes sylvanus</text>
+    <path d="M923,2071 C923,2099 1028,2099 1028,2099" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M923,2071 C923,2042 955,2042 955,2042" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M841,2107 C841,2143 1259,2143 1259,2143" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2143.09523809524)" x="1269" y="2147">Carterocephalus palaemon</text>
+    <path d="M841,2107 C841,2071 923,2071 923,2071" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M806,2139 C806,2171 1259,2171 1259,2171" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2171.90476190476)" x="1269" y="2175">Heteropterus morpheus</text>
+    <path d="M806,2139 C806,2107 841,2107 841,2107" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M759,2062 C759,2139 806,2139 806,2139" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M759,2062 C759,1984 795,1984 795,1984" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M1056,2215 C1056,2229 1131,2229 1131,2229" style="stroke: #0261CD; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed641" points="1131,2229 1259,2236 1259,2222 1131,2229 " style="fill: #0261CD; stroke: #0261CD; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text641" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="2233">Carcharodus (n=2)</text>
+    <path d="M1056,2215 C1056,2200 1085,2200 1085,2200" style="stroke: #0261CD; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed638" points="1085,2200 1259,2207 1259,2193 1085,2200 " style="fill: #0261CD; stroke: #0261CD; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text638" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="2204">Muschampia (n=2)</text>
+    <path d="M1004,2236 C1004,2258 1259,2258 1259,2258" style="stroke: #0261CD; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367118 2258.33333333333)" x="1269" y="2262">Carcharodus alceae</text>
+    <path d="M1004,2236 C1004,2215 1056,2215 1056,2215" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M887,2261 C887,2287 1160,2287 1160,2287" style="stroke: #0261CD; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed645" points="1160,2287 1259,2294 1259,2279 1160,2287 " style="fill: #0261CD; stroke: #0261CD; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text645" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="2291">Spialia (n=2)</text>
+    <path d="M887,2261 C887,2236 1004,2236 1004,2236" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M697,2162 C697,2261 887,2261 887,2261" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M697,2162 C697,2062 759,2062 759,2062" style="stroke: #0261CD; stroke-width: 4" />
+    <path d="M621,1820 C621,2162 697,2162 697,2162" style="stroke: black; stroke-width: 4" />
+    <path d="M621,1820 C621,1478 635,1478 635,1478" style="stroke: black; stroke-width: 4" />
+    <path d="M870,2359 C870,2373 1259,2373 1259,2373" style="stroke: #9400D3; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2373.57142857143)" x="1269" y="2377">Papilio machaon</text>
+    <path d="M870,2359 C870,2344 1259,2344 1259,2344" style="stroke: #9400D3; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2344.7619047619)" x="1269" y="2348">Zerynthia polyxena</text>
+    <path d="M722,2337 C722,2359 870,2359 870,2359" style="stroke: #9400D3; stroke-width: 4" />
+    <path d="M722,2337 C722,2315 1043,2315 1043,2315" style="stroke: #9400D3; stroke-width: 1" />
+    <polygon class="collapsed" id="collapsed689" points="1043,2315 1259,2323 1259,2308 1043,2315 " style="fill: #9400D3; stroke: #9400D3; stroke-width: 1" />
+    <text class="collapsed_text" id="collapsed_text689" style="font-family: Verdana; font-size: 18; font-weight: bold" transform="rotate()" x="1269" y="2319">Parnassius (n=3)</text>
+    <path d="M605,2369 C605,2402 1259,2402 1259,2402" style="stroke: #9400D3; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99999367117 2402.38095238095)" x="1269" y="2406">Iphiclides podalirius</text>
+    <path d="M605,2369 C605,2337 722,2337 722,2337" style="stroke: #9400D3; stroke-width: 4" />
+    <path d="M589,2095 C589,2369 605,2369 605,2369" style="stroke: black; stroke-width: 4" />
+    <path d="M589,2095 C589,1820 621,1820 621,1820" style="stroke: black; stroke-width: 4" />
+    <path d="M40,2263 C40,2431 1259,2431 1259,2431" style="stroke: black; stroke-width: 4" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 18; font-style: Italic" transform="rotate( 1259.99998734235 2431.19047619048)" x="1269" y="2435">Hamearis lucina</text>
+    <path d="M40,2263 C40,2095 589,2095 589,2095" style="stroke: black; stroke-width: 4" />
 </svg>
