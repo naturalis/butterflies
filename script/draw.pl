@@ -134,15 +134,18 @@ my $pixels_per_myear = $height_in_pixels / $height_in_myears;
 
 INFO "setting scale, pixels per MYA: $pixels_per_myear";
 $drawer->set_scale_options(
-	'-width' => '100%',
-	'-major' => $pixels_per_myear * 25,
-	'-minor' => $pixels_per_myear * 5,
-	'-label' => 'MYA',
-	'-tmpl'  => sub {
+	'-width'   => '100%',
+	'-major'   => $pixels_per_myear * 25,
+	'-minor'   => $pixels_per_myear * 5,
+	'-label'   => 'MYA',
+	'-reverse' => 1,
+	'-tmpl' => sub {
+	
+		# round to nearest integer
 		my $value = shift;
 		return(($value == int($value)) ? $value : int($value + 1))
 	},
-	'-font'  => {
+	'-font' => {
 		'-face' => 'Verdana',
 		'-size' => 11,
 	}
