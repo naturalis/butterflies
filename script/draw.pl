@@ -12,8 +12,8 @@ use Bio::Phylo::Util::Logger qw':simple :levels';
 my ( $intree, $fossils, $taxa );
 my $verbosity = WARN;
 my $width     = 2000;
-my $height    = 2500;
-my $padding   = 60;
+my $height    = 3000;
+my $padding   = 90;
 my $textsize  = 18;
 my $shape     = 'curvy';
 my $mode      = 'phylo';
@@ -55,7 +55,7 @@ my $drawer = Bio::Phylo::Treedrawer->new(
 	'-padding' => $padding,
 	'-collapsed_clade_width' => 1/2,
 	'-text_horiz_offset'     => 10,
-	'-text_width'            => 200,
+	'-text_width'            => 250,
 	'-branch_width'          => 4,
 );
 
@@ -103,6 +103,11 @@ $tree->visit_depth_first(
 				$d->set_node_outline_color($spectrum[$i]);
 				$d->set_branch_color($spectrum[$i]);
 			}
+			$node->set_font_face('Verdana');
+			$node->set_font_size($textsize);
+			$node->set_font_color($spectrum[$i]);
+			
+			
 			$i++;
 		}
 	}
