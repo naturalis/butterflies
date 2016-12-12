@@ -17,7 +17,7 @@ my $padding   = 60;
 my $textsize  = 18;
 my $shape     = 'curvy';
 my $mode      = 'phylo';
-my @colors    = qw(darkred darkviolet);
+my @colors    = qw(indianred mediumpurple);
 GetOptions(
 	'verbose+'    => \$verbosity,
 	'intree=s'    => \$intree,
@@ -124,6 +124,7 @@ $drawer->set_scale_options(
 	'-width'   => '100%',
 	'-major'   => $pixels_per_myear * 25,
 	'-minor'   => $pixels_per_myear * 5,
+	'-blocks'  => $pixels_per_myear * 25,
 	'-label'   => 'MYA',
 	'-reverse' => 1,
 	'-tmpl' => sub {
