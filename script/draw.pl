@@ -124,7 +124,7 @@ my $height_in_myears = $tallest->calc_path_to_root;
 my $pixels_per_myear = $height_in_pixels / $height_in_myears;
 
 ##########################################################################################
-INFO "setting scale, pixels per MYA: $height_in_pixels/$height_in_myears=$pixels_per_myear";
+INFO "setting scale, pixels / MYA: $height_in_pixels/$height_in_myears=$pixels_per_myear";
 $drawer->set_scale_options(
 	'-width'   => '100%',
 	'-major'   => $pixels_per_myear * 25,
